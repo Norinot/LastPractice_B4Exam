@@ -1,0 +1,16 @@
+C:\Users\narut\Desktop\Nobel\Nobel\Nobel\bin\Debug\net5.0\Nobel.exe
+C:\Users\narut\Desktop\Nobel\Nobel\Nobel\bin\Debug\net5.0\Nobel.deps.json
+C:\Users\narut\Desktop\Nobel\Nobel\Nobel\bin\Debug\net5.0\Nobel.runtimeconfig.json
+C:\Users\narut\Desktop\Nobel\Nobel\Nobel\bin\Debug\net5.0\Nobel.runtimeconfig.dev.json
+C:\Users\narut\Desktop\Nobel\Nobel\Nobel\bin\Debug\net5.0\Nobel.dll
+C:\Users\narut\Desktop\Nobel\Nobel\Nobel\bin\Debug\net5.0\ref\Nobel.dll
+C:\Users\narut\Desktop\Nobel\Nobel\Nobel\bin\Debug\net5.0\Nobel.pdb
+C:\Users\narut\Desktop\Nobel\Nobel\Nobel\obj\Debug\net5.0\Nobel.csprojAssemblyReference.cache
+C:\Users\narut\Desktop\Nobel\Nobel\Nobel\obj\Debug\net5.0\Nobel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narut\Desktop\Nobel\Nobel\Nobel\obj\Debug\net5.0\Nobel.AssemblyInfoInputs.cache
+C:\Users\narut\Desktop\Nobel\Nobel\Nobel\obj\Debug\net5.0\Nobel.AssemblyInfo.cs
+C:\Users\narut\Desktop\Nobel\Nobel\Nobel\obj\Debug\net5.0\Nobel.csproj.CoreCompileInputs.cache
+C:\Users\narut\Desktop\Nobel\Nobel\Nobel\obj\Debug\net5.0\Nobel.dll
+C:\Users\narut\Desktop\Nobel\Nobel\Nobel\obj\Debug\net5.0\ref\Nobel.dll
+C:\Users\narut\Desktop\Nobel\Nobel\Nobel\obj\Debug\net5.0\Nobel.pdb
+C:\Users\narut\Desktop\Nobel\Nobel\Nobel\obj\Debug\net5.0\Nobel.genruntimeconfig.cache
